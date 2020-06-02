@@ -1,8 +1,8 @@
 # Dual-Path RNN for Single-Channel Speech Separation (in Keras-Tensorflow2)
 
-Keras-Tensorflow2 implementation of Dual-Path RNN as in [1] for Speech Separation trained on WHAM! data.
+Keras-Tensorflow2 implementation of Dual-Path RNN as in [1] for Speech Separation trained on WSJ0-MIX2 subset of the WHAM! data set.
 
-This implementation achieves 14.5 dB SI-SNR improvement on the WHAM! [2] test set.
+This implementation achieves 14.5 dB SI-SNR improvement on the WSJ0-MIX2 subset of the WHAM! [2] test set.
 
 Please give credit to this Github repository when using this implementation for publications.
 
